@@ -1,4 +1,4 @@
-﻿# Risk Game with AI
+﻿# Risk Game
  
 ## Runs
 
